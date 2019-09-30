@@ -1,0 +1,32 @@
+---
+layout : layouts/base.njk
+
+---
+
+	<div id="bg"></div>
+	<div id="overlay"></div>
+	<div id="main">
+
+		<!-- Header -->
+		<header id="header">
+			<h1>
+				<a href="{{ data.github }}" id="logo">{{ data.app_title }}</a>
+			</h1>
+			<p>
+				Static Site prototyped in <a href="https://www.11ty.io/">Eleventy SSG</a> &nbsp;&bull;&nbsp; <a href="{{ data.github }}">Source Code</a>	
+			<nav>
+				<ul>
+
+					<li><a href="{{ data.github   }}" class="icon brands fa-github"><span class="label">Github</span></a></li>
+					<li><a href="{{ data.twitter  }}" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="{{ data.facebook }}" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+
+				</ul>
+			</nav>
+		</header>
+
+		{% include 'footer.njk' %}
+
+	</div>
+
+
