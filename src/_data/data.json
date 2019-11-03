@@ -5,8 +5,8 @@
 
     "app_title"      : "Eleventy Aerial",
 
-    "seo_title"      : "Eleventy Aerial - Built with Automation Tools | AppSeed App Generator",
-    "seo_desc"       : "Static Site prototyped in Eleventy SSG on top of Aerial Html5 Up design.",
+    "seo_title"      : "Static Site Eleventy - HTML5up Aerial | AppSeed",
+    "seo_desc"       : "Static Site built with Eleventy (11ty) SSG on top of HTML5up Aerial design. Tooling: Webpack, Babel, LightServer and CSS processors.",
 
     "product"        : "https://appseed.us/static-site/eleventy-html5up-aerial", 
     "github"         : "https://github.com/app-generator/eleventy-html5up-aerial",
