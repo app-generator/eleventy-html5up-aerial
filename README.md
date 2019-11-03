@@ -1,4 +1,4 @@
-﻿# [Eleventy Html5UP Aerial](https://eleventy-html5up-aerial.appseed.us)
+# [Eleventy Html5UP Aerial](https://appseed.us/static-site/eleventy-html5up-aerial)
 
 Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Aerial Design  
 
@@ -20,7 +20,8 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Aerial
 
 ## App Links
 
-- [Eleventy Html5UP Aerial](https://eleventy-html5up-aerial.appseed.us) - Live DEMO
+- **[Eleventy Html5UP Aerial](https://eleventy-html5up-aerial.appseed.us)** - Live DEMO
+- **[Eleventy Html5UP Aerial](https://appseed.us/static-site/eleventy-html5up-aerial)** - Product Page
 
 <br />
 
@@ -47,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Aerial](https://eleventy-html5up-aerial.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Aerial](https://appseed.us/static-site/eleventy-html5up-aerial) - provided by **AppSeed**
