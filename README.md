@@ -16,6 +16,7 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Aerial
 
 ## Want more? Go PRO!
 
+PRO version are delivered with Premium UI Kits, Lifetime updates and 24/7 LIVE Suport (via [Discord](https://discord.gg/fZC6hup) ) 
 <br />
 
 | [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
