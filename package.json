@@ -16,11 +16,10 @@
     "scripts:dev": "webpack --mode=development",
     "serve": "light-server -c .lightserverrc",
     "mk:assets": "mkdirp ./dist && mkdirp ./dist/assets && mkdirp ./dist/assets/js && mkdirp ./dist/assets/webfonts",
-    "cp:js": "ncp ./src/assets/js/ ./dist/assets/js/",
     "cp:fonts": "ncp ./src/assets/webfonts/ ./dist/assets/webfonts/",
-    "dev":   "npm-run-all clean mk:assets cp::js cp::fonts styles:dev scripts:dev eleventy:default --parallel eleventy:watch serve --print-label",
+    "dev":   "npm-run-all clean mk:assets cp::fonts styles:dev scripts:dev eleventy:default --parallel eleventy:watch serve --print-label",
     "dev:debug": "DEBUG=* npm run dev",
-    "build": "run-s clean mk:assets cp::js cp::fonts styles:prod scripts:prod eleventy:default --print-label"
+    "build": "run-s clean mk:assets cp::fonts styles:prod scripts:prod eleventy:default --print-label"
   },
   "repository": {
     "type": "git",
